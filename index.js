@@ -19,7 +19,7 @@ const makeCommit = (n) => {
     date: DATE,
   };
 
-  console.log(10000); 
+  console.log(19000); 
 
   jsonfile.writeFile(FILE_PATH, data);
 

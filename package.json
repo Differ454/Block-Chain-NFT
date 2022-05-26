@@ -1,0 +1,25 @@
+{
+  "name": "block-chain-nft",
+  "version": "1.0.0",
+  "description": "Github bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrCloudFactory454/Block-Chain-NFT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrCloudFactory454/Block-Chain-NFT/issues"
+  },
+  "homepage": "https://github.com/DrCloudFactory454/Block-Chain-NFT#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.3",
+    "random": "^3.0.6",
+    "simple-git": "^3.7.1"
+  }
+}
